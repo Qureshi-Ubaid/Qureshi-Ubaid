@@ -38,9 +38,11 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 
 ## 📊 GitHub Statistics
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Qureshi-Ubaid&show_icons=true&theme=radical)](https://github.com/Qureshi-Ubaid)
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Qureshi-Ubaid&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qureshi-Ubaid&layout=compact&theme=radical)](https://github.com/Qureshi-Ubaid)
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qureshi-Ubaid&layout=compact&theme=radical)
 
 ---
 
