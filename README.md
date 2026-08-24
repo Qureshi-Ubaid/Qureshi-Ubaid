@@ -48,9 +48,9 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 
 Some of my best work:
 
-- **[Project Name 1](#)** - Brief description of what this project does
-- **[Project Name 2](#)** - Brief description of what this project does
-- **[Project Name 3](#)** - Brief description of what this project does
+- **[Flex Web App](https://github.com/Qureshi-Ubaid/web-app)** - A modern, flexible web application built with Node.js, Express, and MongoDB with a responsive frontend interface
+- **[Solar Revive Connect](https://github.com/Qureshi-Ubaid/solar-revive-connect)** - Revolutionizing renewable energy connections with a TypeScript-based platform for solar energy management
+- **[Blogging Website](https://github.com/Qureshi-Ubaid/Blogging-Website)** - A feature-rich blogging platform with intuitive UI for creating and managing blog posts
 
 ---
 
