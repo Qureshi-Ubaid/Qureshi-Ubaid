@@ -11,6 +11,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 - 🌱 Always learning and improving my craft
 - 💡 Problem solver with a keen eye for clean, maintainable code
 - 🤝 Open to collaborating on interesting projects
+- 🎯 Specializing in Node.js, Express, MongoDB, React, and TypeScript
+- 📍 Building innovative solutions with cutting-edge technologies
 
 ---
 
@@ -59,8 +61,10 @@ Some of my best work:
 ## 🎯 What I'm Working On
 
 - 📚 Building full-stack applications with modern frameworks
+- ☀️ Developing sustainable solutions for renewable energy
 - 🔍 Contributing to open-source projects
 - 📖 Learning and sharing knowledge through documentation
+- 🚀 Exploring cloud technologies and DevOps practices
 
 ---
 
@@ -69,9 +73,17 @@ Some of my best work:
 I'm always open to interesting conversations and collaboration opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ubaidullah92/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=internet-explorer&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ubaidathar40@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ubaidqureshi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=internet-explorer&logoColor=white)](https://github.com/Qureshi-Ubaid)
+
+---
+
+## 💼 Professional Bio
+
+**Full Stack Developer** | Node.js & React Enthusiast | TypeScript Expert | Cloud & DevOps Explorer
+
+With a passion for creating scalable, user-centric applications, I specialize in building end-to-end solutions using modern JavaScript frameworks and technologies. My expertise spans from backend API development with Express.js and MongoDB to responsive frontend interfaces with React. Currently exploring innovative applications in renewable energy technology and cloud infrastructure.
 
 ---
 
@@ -81,6 +93,10 @@ I'm always open to interesting conversations and collaboration opportunities.
 
 ---
 
-**Thanks for visiting my profile! Feel free to explore my repositories and get in touch.** ⭐
+## 🌟 Let's Build Something Amazing Together!
+
+Feel free to explore my repositories, fork them, and contribute. I'm always excited to collaborate on projects that make a difference!
+
+**Thanks for visiting my profile!** ⭐
 
 Last updated: 2026-08-24
